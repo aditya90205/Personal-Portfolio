@@ -238,6 +238,7 @@ span{
     height: 60vh;
     /* border: .2rem solid rgb(60, 245, 217); */
     transition: all .5s ease;
+    overflow: hidden;
 }
 .servicesContainer .serviceBox:hover{
     border: .4rem solid rgb(60, 245, 217); 
