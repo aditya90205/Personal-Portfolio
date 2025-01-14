@@ -56,7 +56,7 @@ ScrollReveal().reveal('.introContent p', { origin: 'right' });
 // Myself Text typed
 
 const typed = new Typed('.mySelf', {
-    strings: ['Frontend Developer','Frontend Developer', 'BCA Student', 'Coder and Learner'],
+    strings: ['Full Stack Developer','Full Stack Developer', 'Innovator', 'Coder and Learner'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
